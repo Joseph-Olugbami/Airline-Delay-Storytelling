@@ -7,7 +7,7 @@ i. What has been the history of flight experiences in the past? <br>
 ii. How bad was delayed flights? <br>
 iii. Any identified pattern with delayed flights? <br>
 iv. Which Airline experienced more delay? <br>
-v. Which Airline experienced the least dalay? <br>
+v. Which Airline experienced the least delay? <br>
 
 ----
 # Data Sourcing
